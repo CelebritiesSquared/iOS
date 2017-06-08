@@ -1,0 +1,64 @@
+videocount work and is what decides what question to ask and video to play. keep goign through it all and then stop when video count is 10;
+
+
+
+
+- Add one of the questions below to each video. Then create corresponding buttons on the next screen
+With one being the answer and the others being wrong answers.
+
+- Finish adding the correct videos to the if's in the contest over screen and after answer screens.
+
+-ANSWER BUTTON SIZE 100 x 40
+
+Examples of Questions that will be asked
+
+1.    What’s the coolest persons contact # you have in your cell phone?
+2.    What’s in your pocket right now?
+3.    What’s your favorite movie?
+4.    What’s your favorite music group?
+5.    What’s your favorite beach?
+6.    What’s your favorite place to vacation?
+7.    What’s behind a kitchen cabinet?
+8.    What’s the color of your bedroom wall?
+9.    What did you do this morning?
+10.  What’s your favorite food?
+11.  What’s your favorite place to dine?
+12.  Where have you traveled to most recently?
+13.  What’s your favorite television show on right now?
+14.  What’s the name of your dog, cat, horse or various pets?
+15.  What’s your favorite sport to play?
+16.  What sport was your favorite to play when a child?
+17.  How many pairs of shoes are in your closet?
+18.  How many dresses are in your closet?
+19.  How many suites are in your closet?
+20.  What is your favorite sports team?
+21.  What’s the fast time you’ve ever ran 1 mile in?
+22.  What’s something you can’t live without?
+23.  What car do you drive the most?
+24.  How many cars do you currently own?
+25.  What magazine do you always have with you?
+26.  When’s the last time you received a speeding ticket?
+27.  What’s the one thing you really want that you do not currently own?
+28.  What was the last lie you told and to whom?
+29.  What is the silliest prank you have ever pulled on a friend?
+30.  What is your greatest strength?
+31.  What is your greatest weakness?
+32.  What was your first thought as you woke up this morning?
+33.  Would you rather be ugly and live forever or attractive and die in a year?
+34.  What’s the grossest food you have ever tried?
+35.  If you could have personally witnessed a past major life event what would have that been?
+36.  If you could wake up tomorrow morning in a body of someone else who would that be?
+37.  If you could be any age for a week what age would you want to be?
+38.  What question do you hate to get that you are often asked?
+39.  Is your cell phone a Droid or iPhone?
+40.  What’s the scariest life event you have experienced?
+41.  What do you have planned for tomorrow morning?
+42.  Have you ever eaten a crayon or glue?
+43.  What’s your favorite genre of music?
+44.  What’s one thing that always cheers you up?
+45.  What is your favorite book you’ve read?
+46.  What’s the longest you have been without sleep?
+47.  What’s the craziest movie shoot scene you have ever endured?
+48.  Describe something that has happened to you for which you have no explanation?
+49.  What did you do for your last Birthday?
+50.  What’s your favorite holiday?

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>CelebritiesSquared.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>CA978FE81D67EBC7000A917F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CA978FFC1D67EBD3000A917F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CA9790071D67EBD4000A917F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
